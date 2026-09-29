@@ -20,7 +20,7 @@ A simple Java game to escape from a room by solving puzzles.
 - Encapsulation: private fields
 - Abstract class: Puzzle
 - Inheritance: WordPuzzle, NumberPuzzle extends Puzzle
-- Polymorphism: check() different
+- Polymorphism: check() different ways
 - Composition: Game has Player + Room + puzzles
 - File Handling: save and read scores
 
@@ -28,7 +28,7 @@ A simple Java game to escape from a room by solving puzzles.
 1. Open file Main.java in VS code and click Run
 
 ## Screenshots
-![1](Screenshot_1)
-![2](Screenshot_2)
+![1](Screenshot_1.png)
+![2](Screenshot_2.png)
 
 By: [Abrar Mohamed] - 2nd Year CS
