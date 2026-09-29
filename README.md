@@ -28,7 +28,7 @@ A simple Java game to escape from a room by solving puzzles.
 1. Open file Main.java in VS code and click Run
 
 ## Screenshots
-![1](Screenshot_1.png)
-![2](Screenshot_2.png)
+!(Screenshot_1.png)
+!(Screenshot_2.png)
 
 By: [Abrar Mohamed] - 2nd Year CS
